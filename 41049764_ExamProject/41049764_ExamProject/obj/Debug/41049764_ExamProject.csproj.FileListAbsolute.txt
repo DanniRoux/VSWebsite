@@ -1,0 +1,17 @@
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\bin\Debug\41049764_ExamProject.exe.config
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\bin\Debug\41049764_ExamProject.exe
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\bin\Debug\41049764_ExamProject.pdb
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\41049764_ExamProject.csproj.AssemblyReference.cache
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\_41049764_ExamProject.Form1.resources
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\_41049764_ExamProject.Form2.resources
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\_41049764_ExamProject.Form3.resources
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\_41049764_ExamProject.Properties.Resources.resources
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\41049764_ExamProject.csproj.GenerateResource.cache
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\41049764_ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\41049764_ExamProject.exe
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\41049764_ExamProject.pdb
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\_41049764_ExamProject.Form4.resources
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\bin\Debug\Database1.mdf
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\bin\Debug\Database1_log.ldf
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\_41049764_ExamProject.Form5.resources
+C:\Users\user-pc\OneDrive\Desktop\C#\41049764_ExamProject\41049764_ExamProject\obj\Debug\_41049764_ExamProject.Form6.resources
